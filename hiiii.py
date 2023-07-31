@@ -9,3 +9,6 @@ def myFun():
 def sdetFunction():
     print("code done by sdet2")
 
+def sdetFunction():
+    print("code done by sdet2")
+
