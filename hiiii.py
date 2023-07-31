@@ -7,3 +7,6 @@ def myFun():
 def myfun2():
     print("code done by sdet1")
 
+def sdetFunction():
+    print("code done by sdet2")
+
